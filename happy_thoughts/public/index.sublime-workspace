@@ -1,0 +1,292 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/wamp64/www/Ex_Files_PHP_MySQL_EssT_Basics/Exercise Files/Chapter_01/01_02/basic_php_project/public/index.php",
+		"/D/Visual Studios/Lab09/Lab09Ex01/Lab09Ex01/Program.cs",
+		"/D/Visual Studios/Lab 02/Lab03Ex01/Lab03Ex01/Program.cs",
+		"/D/Visual Studios/Lab01Ex03/Lab01Ex03/Program.cs",
+		"/D/Anthony/Documents/Classes/Semester 6/Web Programming II/books/linksSearch.php",
+		"/D/Anthony/Documents/Classes/Semester 6/Web Programming II/books/searchXML.xml",
+		"/D/wamp64/www/books/searchXML.xml",
+		"/D/Anthony/Documents/Classes/Semester 6/Web Programming II/books/search.html",
+		"/D/Anthony/Documents/Classes/Semester 6/Web Programming II/books/booksdb.xml",
+		"/D/wamp64/www/example1/review1.php",
+		"/D/Anthony/Documents/Classes/Semester 6/Web Programming II/Data Binding Lab 1/JazzEmp3.htm",
+		"/D/wamp64/www/example/index.php",
+		"/D/wamp64/www/example/index.html",
+		"/D/Anthony/Documents/Classes/Semester 6/Web Programming II/DTD Review/Items.dtd",
+		"/D/wamp64/www/example/veiws/footer.php",
+		"/D/Anthony/Documents/Classes/Semester 6/Web Programming II/GLO/index.html",
+		"/D/wamp64/www/example/veiws/body.php",
+		"/D/Anthony/Documents/Classes/Semester 6/Web Programming II/Data Binding Lab 1/Emp1.xml",
+		"/D/Anthony/Documents/Classes/Semester 6/Web Programming II/Data Binding Lab 1/Emp2.xml",
+		"/D/Anthony/Documents/Classes/Semester 6/Web Programming II/GLO/mySpringBreak.xml",
+		"/D/Anthony/Documents/Classes/Semester 6/Web Programming II/GLO/springBreakDestinations.xml",
+		"/D/Anthony/Documents/Classes/Semester 6/Web Programming II/GLO/breakTips.xml",
+		"/D/wamp64/www/example1/review.php",
+		"/D/wamp64/www/example1/booksdb.xml",
+		"/D/Anthony/Documents/Classes/Semester 6/Web Programming II/DTD Review/xmldb.php",
+		"/D/Anthony/Documents/Classes/Semester 6/Web Programming II/DTD Review/order.xml",
+		"/C/Users/Anthony/AppData/Local/Temp/Temp1_ReadingUserInputs (1).zip/ReadingUserInputs/src/com/asc/oop/main/UsingScannerForIn.java",
+		"/D/Dev/Eclipse Workspace/ASCAnthonyKahwaty_/src/com/asc/lab1/obj/FormulaCalculator.java",
+		"/D/Anthony/Downloads/materialize (1)/materialize/first.html",
+		"/C/Users/Anthony/AppData/Local/Temp/Temp1_ReadingUserInputs (1).zip/ReadingUserInputs/src/com/asc/oop/main/UsingBufferedReaderForIn.java",
+		"/D/Dev/Eclipse Workspace/fuckoff/src/com/asc/lab1/obj/FormulaCalculator.java",
+		"/D/Anthony/Documents/Classes/Semester 6/Web Programming II/example/content/content.txt",
+		"/D/Anthony/Documents/Classes/Semester 6/Web Programming II/example/index.html",
+		"/D/Visual Studios/WebAppForm/WebAppForm/Pages/index.aspx",
+		"/D/Visual Studios/WebAppForm/WebAppForm/Pages/delup.aspx.cs",
+		"/D/Visual Studios/WebAppForm/WebAppForm/Pages/delup.aspx",
+		"/D/Visual Studios/webProj/webProj/Pages/reader.aspx.cs",
+		"/D/Visual Studios/webProj/webProj/Pages/userhome.aspx.cs",
+		"/D/Visual Studios/webProj/webProj/Pages/users.aspx.cs",
+		"/D/Visual Studios/WebAppForm/WebAppForm/Pages/result2.aspx.cs",
+		"/D/Visual Studios/WebAppForm/WebAppForm/Pages/result2.aspx",
+		"/D/Visual Studios/WebAppForm/WebAppForm/Pages/index.aspx.cs",
+		"/D/Visual Studios/webProj/webProj/Pages/login.aspx.cs",
+		"/D/Anthony/Downloads/AlfredStateInventory.class",
+		"/D/Visual Studios/WebAppForm/WebAppForm/Pages/Result.aspx",
+		"/D/Visual Studios/WebAppForm/WebAppForm/Pages/result.aspx.cs",
+		"/D/Visual Studios/exam2/exam2/dates.txt",
+		"/D/Visual Studios/Assign2/Assign2/listClass.cpp",
+		"/D/Visual Studios/newWellsvillePrj/newWellsvillePrj/Pages/result.aspx",
+		"/D/Visual Studios/Assign2/Assign2/Assign2.cpp",
+		"/D/Visual Studios/ListMgmnt/ListMgmnt/ListMgmnt.cpp",
+		"/D/Visual Studios/shaftCalc/shaftCalc/out.txt",
+		"/D/Visual Studios/sizeMyShaft/sizeMyShaft/2024 Aluminum Tube Shaft.txt",
+		"/D/Visual Studios/sizeMyShaft/sizeMyShaft/6061 Aluminum Solid Shaft.txt",
+		"/D/Visual Studios/sizeMyShaft/sizeMyShaft/6061 Aluminum Tube Shaft.txt",
+		"/D/Visual Studios/sizeMyShaft/sizeMyShaft/1018 CS Solid.txt",
+		"/D/Visual Studios/sizeMyShaft/sizeMyShaft/1018 Solid Shaft.txt",
+		"/D/Visual Studios/sizeMyShaft/sizeMyShaft/Debug/sizeMyShaft.tlog/sizeMyShaft.lastbuildstate",
+		"/D/Visual Studios/sizeMyShaft/sizeMyShaft/Debug/sizeMyShaft.tlog/link.command.1.tlog",
+		"/D/Visual Studios/sizeMyShaft/sizeMyShaft/Debug/sizeMyShaft.tlog/link.read.1.tlog",
+		"/D/Visual Studios/newWellsvillePrj/newWellsvillePrj/Pages/result.aspx.cs",
+		"/D/Visual Studios/exam1/exam1/Pages/index.aspx.cs",
+		"/D/Visual Studios/Assign2/Assign2/listObj.cpp",
+		"/D/Visual Studios/sizeMyShaft/sizeMyShaft/1018 CS Solid",
+		"/D/Anthony/Downloads/2024 Aluminum Solid Shaft.txt",
+		"/D/Visual Studios/sizeMyShaft/sizeMyShaft/2024 Aluminum Solid Shaft.txt",
+		"/D/Visual Studios/WebAppForm/WebAppForm/Pages/index.aspx.designer.cs",
+		"/D/Visual Studios/gameOfLife/gameOfLife/gameOfLife.cpp",
+		"/D/Visual Studios/gameOfLife/gameOfLife/gameBoard.txt",
+		"/D/Visual Studios/newWellsvillePrj/newWellsvillePrj/Pages/style.css",
+		"/D/Visual Studios/WebAppForm/WebAppForm/WebAppForm.csproj",
+		"/C/Users/Anthony/AppData/Local/Temp/Temp1_Table_Highlight_Vertical_Horizontal.zip/Table_Highlight_Vertical_Horizontal/css/main.css",
+		"/D/Visual Studios/gameOfLife/gameOfLife/gameBoard",
+		"/D/Visual Studios/mvcExample/WebApplication2/Content/Site.css",
+		"/D/Visual Studios/mvcExample/WebApplication2/Global.asax.cs",
+		"/D/Visual Studios/mvcExample/WebApplication2/mvcExample.csproj",
+		"/D/Visual Studios/MagicSqare/MagicSqare/MagicSqare.cpp",
+		"/D/Visual Studios/WebAppForm/WebAppForm/Properties/AssemblyInfo.cs",
+		"/D/Visual Studios/Assign1/Assign1/atoFzFile2.txt",
+		"/D/Visual Studios/sizeMyShaft/sizeMyShaft/1018 Tube Shaft.txt",
+		"/D/Visual Studios/Assign1/Assign1/atoFzFile.txt",
+		"/D/Visual Studios/Assign1/Assign1/floatList.txt",
+		"/D/Visual Studios/sizeMyShaft/sizeMyShaft/sizeMyShaft.cpp",
+		"/D/Visual Studios/Assign1/Assign1/Assign1.cpp",
+		"/D/Anthony/Documents/Semester 5/Programming III/temp.c",
+		"/D/Anthony/Downloads/WebAppFromScratchWebProg1 (2)/WebAppFromScratchWebProg1/WebAppFromScratchWebProg1/pages/result.aspx.cs",
+		"/D/Anthony/Downloads/WebAppFromScratchWebProg1 (2)/WebAppFromScratchWebProg1/WebAppFromScratchWebProg1/pages/result.aspx",
+		"/D/Anthony/Downloads/WebAppFromScratchWebProg1 (2)/WebAppFromScratchWebProg1/WebAppFromScratchWebProg1/pages/index.aspx.cs",
+		"/D/Anthony/Downloads/WebAppFromScratchWebProg1 (2)/WebAppFromScratchWebProg1/WebAppFromScratchWebProg1/pages/index.aspx",
+		"/D/Visual Studios/Assign1/Assign1/file3.txt",
+		"/D/Visual Studios/Assign1/Assign1/file2.txt",
+		"/C/Users/Anthony/ssh.txt.pub",
+		"/D/Code/web-prog1.2/index.html",
+		"/D/Anthony/Documents/Semester 5/Web Programming 1/ex1.html",
+		"/D/wamp64/www/realestatefr.php",
+		"/D/Anthony/Documents/Semester 5/Web Programming 1/Website/html/contact.html",
+		"/D/wamp64/www/db.html",
+		"/D/Anthony/Documents/GitHub/AlfredStateInventoryDesktop/AlfredStateInventory/build/built-jar.properties",
+		"/D/Anthony/Documents/GitHub/AlfredStateInventoryDesktop/AlfredStateInventory/nbproject/private/private.xml",
+		"/D/Anthony/HTML/style.css.txt",
+		"/C/Users/Anthony/AppData/Local/Temp/Temp1_Ubusina Free Website Template - Free-CSS.com.zip/ubusina/css/style.css",
+		"/D/Anthony/HTML/realestate.html",
+		"/D/Anthony/HTML/realestatefr.php",
+		"/D/wamp64/www/style.css",
+		"/D/Anthony/HTML/reset.css.txt",
+		"/D/Anthony/Downloads/incubating-netbeans-11.0-bin/netbeans/netbeans.css",
+		"/C/Users/Anthony/Documents/Semester 1 Class Notes/Web Development/html10/tutorial/lht_calendar.js",
+		"/C/Users/Anthony/Documents/Semester 1 Class Notes/Web Development/html10/case1/tc_cart.html",
+		"/C/Users/Anthony/Documents/Semester 1 Class Notes/Web Development/html10/tutorial/lht_august.html",
+		"/C/Users/Anthony/Documents/Semester 1 Class Notes/Web Development/d/d.html",
+		"/C/Users/Anthony/Documents/Semester 1 Class Notes/Web Development/d/d.js",
+		"/C/Users/Anthony/Downloads/Intro to Web Development Final Project/Intro to Web Development Final Project/zoo_contact.html",
+		"/C/Users/Anthony/Downloads/Intro to Web Development Final Project/Intro to Web Development Final Project/zoo_animal.html",
+		"/C/Users/Anthony/Documents/Semester 1 Class Notes/Web Development/html09/tutorial/tny_clock_txt.html",
+		"/C/Users/Anthony/Documents/Semester 1 Class Notes/Web Development/html09/tutorial/tny_clock.html",
+		"/C/Users/Anthony/Documents/Semester 1 Class Notes/Web Development/html08/tutorial/cp_animate.css",
+		"/C/Users/Anthony/Documents/Semester 1 Class Notes/Web Development/html05/review/tf_tips_txt.html",
+		"/C/Users/Anthony/Documents/Semester 1 Class Notes/Web Development/html05/review/tf_styles4_txt.css",
+		"/C/Users/Anthony/Documents/Semester 1 Class Notes/Web Development/html06/tutorial/dlr_evenings.html",
+		"/C/Users/Anthony/Documents/Semester 1 Class Notes/Web Development/html06/case1/mi_pricing.html",
+		"/C/Users/Anthony/Documents/Semester 1 Class Notes/Web Development/html06/case1/mi_tableS.css",
+		"/C/Users/Anthony/Documents/Semester 1 Class Notes/Web Development/html06/tutorial/dlr_lw0414.html",
+		"/C/Users/Anthony/Documents/Semester 1 Class Notes/Web Development/html06/tutorial/dlr_columns.css",
+		"/C/Users/Anthony/Documents/Semester 1 Class Notes/Web Development/html06/tutorial/dlr_tables.css",
+		"/C/Users/Anthony/Documents/Semester 1 Class Notes/Web Development/html05/tutorial/tf_styles1.css",
+		"/C/Users/Anthony/Documents/Semester 1 Class Notes/Web Development/Week 2/1305503929_581166/html04/case2/sf_effects.css",
+		"/C/Users/Anthony/Documents/Semester 1 Class Notes/Web Development/html05/tutorial/tf_print.css",
+		"/C/Users/Anthony/Documents/Semester 1 Class Notes/Web Development/html05/tutorial/tf_styles3.css"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

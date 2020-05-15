@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<thoughts>
+	<thought>
+		<id>0</id>
+		<title>Real Friends</title>
+		<author>Wiz Khalifa</author>
+		<quote>You don't need too many people to be happy; just a few real ones who appreciate you for who you are.</quote>
+	</thought>
+		<thought>
+			<id>1</id>
+			<title>Money</title>
+		<author>Johnny Depp</author>
+		<quote>Money doesn't buy you happiness, but it buys you a big enough yacht to sail right up to it.</quote>
+	</thought>
+	
+	<thought>
+		<id>2</id>
+		<title>Programming Languages</title>
+		<author>Bjarne Stroustrup</author>
+		<quote>There are only two kinds of programming languages: those people always bitch about and those nobody uses</quote>
+	</thought>
+	
+	<thought>
+		<id>3</id>
+		<title>Family</title>
+		<author>Kim Kardashian</author>
+		<quote>Happiness is my family; no matter what's going on, if you are just hanging out with your family it just seems like everything goes away.</quote>
+	</thought>
+	
+	<thought>
+		<id>4</id>
+		<title>Tranquility and Occupation</title>
+		<author>Thomas Jefferson</author>
+		<quote>It is neither wealth nor splendor but tranquility and occupation which give you HAPPINESS.</quote>
+	</thought>
+</thoughts>
+	
+
+
+
